@@ -4,10 +4,3 @@
 
 - CodeWars: [![](https://www.codewars.com/users/jiangshanmeta/badges/micro)](https://www.codewars.com/users/jiangshanmeta/)
 
-## 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
