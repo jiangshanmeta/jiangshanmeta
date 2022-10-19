@@ -1,6 +1,6 @@
 前进 达瓦里希
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiangshanmeta&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
+<img  src="https://github-readme-stats.vercel.app/api?username=jiangshanmeta&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
 
 
 ![code distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangshanmeta&theme=cobalt&layout=compact&show_icons=true)
